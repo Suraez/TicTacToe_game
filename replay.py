@@ -1,2 +1,2 @@
 def replay():
-    return input("Wanna play again ? 'yes' or 'no' ").lower().startswith('y')
+    return input("Have Fun. Wanna play again ? 'yes' or 'no'").lower().startswith('y')
